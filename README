@@ -1,0 +1,4 @@
+step:
+1 hexo new file
+2 hexo generate
+3 hexo deploy
